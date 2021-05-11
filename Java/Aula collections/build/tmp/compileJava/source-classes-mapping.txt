@@ -16,8 +16,8 @@ Aula/Queue/exercicio.java
  Aula.Queue.exercicio
 Aula/Comparator/Estudante.java
  Aula.Comparator.Estudante
-Aula/Comparator/Exemplo.java
- Aula.Comparator.Exemplo
+Aula/Stream/exemploAPI.java
+ Aula.Stream.exemploAPI
 Aula/utilMap/hashTable.java
  Aula.utilMap.hashTable
 Aula/listasSet/Linkedhashset.java
@@ -32,5 +32,5 @@ Aula/listasSet/Exercicio.java
  Aula.listasSet.Exercicio
 Aula/optionals/exemploPrimitivos.java
  Aula.optionals.exemploPrimitivos
-Aula/Stream/exemploAPI.java
- Aula.Stream.exemploAPI
+Aula/Comparator/Exemplo.java
+ Aula.Comparator.Exemplo
