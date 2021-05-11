@@ -1,0 +1,36 @@
+Aula/List/aula.java
+ Aula.List.aula
+Aula/Queue/aula.java
+ Aula.Queue.aula
+Aula/listasSet/Treeset.java
+ Aula.listasSet.Treeset
+Aula/listasSet/Hashset.java
+ Aula.listasSet.Hashset
+Aula/utilMap/hashMap.java
+ Aula.utilMap.hashMap
+Aula/List/Exercicio.java
+ Aula.List.Exercicio
+Aula/utilMap/treeMap.java
+ Aula.utilMap.treeMap
+Aula/Queue/exercicio.java
+ Aula.Queue.exercicio
+Aula/Comparator/Estudante.java
+ Aula.Comparator.Estudante
+Aula/Comparator/Exemplo.java
+ Aula.Comparator.Exemplo
+Aula/utilMap/hashTable.java
+ Aula.utilMap.hashTable
+Aula/listasSet/Linkedhashset.java
+ Aula.listasSet.Linkedhashset
+Aula/optionals/exemploEstados.java
+ Aula.optionals.exemploEstados
+Aula/optionals/exemploOptional.java
+ Aula.optionals.exemploOptional
+Aula/Comparator/interfaceComparator.java
+ Aula.Comparator.interfaceComparator
+Aula/listasSet/Exercicio.java
+ Aula.listasSet.Exercicio
+Aula/optionals/exemploPrimitivos.java
+ Aula.optionals.exemploPrimitivos
+Aula/Stream/exemploAPI.java
+ Aula.Stream.exemploAPI
