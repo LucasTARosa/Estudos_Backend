@@ -2,7 +2,7 @@
 
 
 
-Este repositório foi criado para que eu possa subir meus estudos em linguagens de programação voltadas para backend para o github.
+Este repositório foi criado para que eu possa subir para o github meus estudos em linguagens de programação voltadas para backend.
 
 Podendo exibir rapidamente quais linguagens de programa já tive contato e o que já estudei, servindo também como uma fonte de informações no futuro.
 
