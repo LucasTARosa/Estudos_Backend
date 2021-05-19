@@ -29,4 +29,9 @@ public class JediRepository {
     public void add(final Jedi jedi) {
         this.jedi.add(jedi);
     }
+
+
+    public List<Jedi> findAll() {
+        return jedi;
+    }
 }
